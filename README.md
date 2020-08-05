@@ -49,7 +49,10 @@
 
 ### **Other :**&nbsp;&nbsp;<img height="20" src="https://avatars1.githubusercontent.com/u/6250754?s=200&v=4" title='Ethereum'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://avatars0.githubusercontent.com/u/36965711?s=200&v=4" title='Solidity'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://avatars1.githubusercontent.com/u/426196?s=200&v=4" title='Unity'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" title='RaspberryPi'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title='HTML'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title='CSS'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" title='Markdown'>
 
-
+---
+<a href="https://github.com/HarshOza36">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshOza36&theme=dark&hide_langs_below=1" />
+</a>
 
 <!--
 **HarshOza36/HarshOza36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
