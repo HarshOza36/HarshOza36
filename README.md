@@ -56,7 +56,7 @@
 
 </td>
     <td>
-    <img align='center' width='700px' src='https://user-images.githubusercontent.com/42001739/89702663-2ab85500-d961-11ea-929d-c1fd798e71ae.png'></img>
+    <img align='center' width='575px' src='https://user-images.githubusercontent.com/42001739/89702663-2ab85500-d961-11ea-929d-c1fd798e71ae.png'></img>
 <!--   <a href="https://github.com/HarshOza36"> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshOza36&theme=dark&hide_langs_below=1" /> -->
 <!--   <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?HarshOza36" frameborder="0"></iframe> -->
