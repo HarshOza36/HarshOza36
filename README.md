@@ -12,7 +12,7 @@
 [![Linkedin: Harsh Oza](https://img.shields.io/badge/-HarshOza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-oza-6b75a7171/)](https://www.linkedin.com/in/harsh-oza-6b75a7171/)
 [![GitHub HarshOza36](https://img.shields.io/github/followers/HarshOza36?label=follow&style=social)](https://github.com/HarshOza36)
 
-<!-- [![website](https://img.shields.io/badge/PortfolioWebsite-harsh.oza-2648ff?style=flat-square&logo=google-chrome)](https://harshoza36.github.io/) -->
+[![website](https://img.shields.io/badge/PortfolioWebsite-harshoza-00f024?logo=safari)](https://harshoza.herokuapp.com/) 
 
 <p align='center'>
 <a href="https://twitter.com/HarshOza12">
