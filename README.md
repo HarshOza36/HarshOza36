@@ -34,7 +34,8 @@
 <br/>
 <br/>
 
-<table>
+<div class="text-white bg-gray-dark mb-2">
+<table class="text-white bg-gray-dark mb-2">
   <tr>
     <td><b style="font-size:30px">Skills</b></td>
     <td><b style="font-size:30px">Github Stats</b></td>
@@ -64,6 +65,7 @@
 </td>
  </tr>
 </table>
+</div>
 
 ---
 <!--
