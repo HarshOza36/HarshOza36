@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on [NLP, Blockchain and Fastai]().
 - 📖 I’m currently learning **React Native**.
 - 👯 I’m looking to collaborate for [Projects]().
-- 💬 Ask me about Api development or any tech related stuff.
-- 💭 I'm interested in **Developing anything with my skills**
+- 💬 Ask me anything about tech related stuff.
+- 💭 I'm interested in **Developing technology with my skills**
 - ⚡ Fun fact: I am also a musician :musical_keyboard: and in love with music :musical_note:.
 
 [![Linkedin: Harsh Oza](https://img.shields.io/badge/-HarshOza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-oza-6b75a7171/)](https://www.linkedin.com/in/harsh-oza-6b75a7171/)
