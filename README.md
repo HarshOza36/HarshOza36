@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshOza36&label=Views&color=blue&style=plastic" alt="HarshOza36" /> </p>
 
-- 🔭 I’m currently working on [NLP, Blockchain and Fastai]().
+- 🔭 I’m currently working on [NLP]().
 - 📖 I’m currently learning **React Native**.
 - 👯 I’m looking to collaborate for [Projects]().
 - 💬 Ask me anything about tech related stuff.
