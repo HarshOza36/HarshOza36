@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshOza36&label=Views&color=blue&style=plastic" alt="HarshOza36" /> </p>
 
-- 🔭 I’m currently working on [NLP]().
-- 📖 I’m currently learning **React Native**.
+- 🔭 I’m currently working on [NLP, Computer Vision and Cloud based Project]().
+- 📖 I’m currently learning **MEAN Stack** and **Ethical Hacking**.
 - 👯 I’m looking to collaborate for [Projects]().
 - 💬 Ask me anything about tech related stuff.
 - 💭 I'm interested in **Developing technology with my skills**
@@ -15,6 +15,8 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-harshoza-00f024?logo=safari)](https://harshoza.herokuapp.com/) 
 
 <p align='center'>
+   Let's Connect 🤝🤘
+  <br>
 <a href="https://twitter.com/HarshOza12">
   <img align="center" alt="Harsh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
