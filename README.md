@@ -1,6 +1,6 @@
 ## Hello World, I'm [Harsh Oza!](https://github.com/HarshOza36) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshOza36&label=Views&color=blue&style=plastic" alt="HarshOza36" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshOza36&label=Views&color=blue&style=plastic" alt="HarshOza36" /> </p> -->
 
 - 🔭 I’m currently working on [NLP, Computer Vision and Cloud based Projects]().
 - 📖 I’m currently learning **MEAN Stack** and **Ethical Hacking**.
@@ -36,7 +36,13 @@
 <br/>
 <br/>
 
-<div class="text-white bg-gray-dark mb-2">
+
+|Skills|Github Stats|
+|---|---|
+|![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Web-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Web-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Hosting-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Hosting-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Hosting-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Others-Ethereum-informational?style=flat&logo=Ethereum&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Others-IOT-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Others-MarkDown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)|<img align='center' width='1975px' src='https://user-images.githubusercontent.com/42001739/89702663-2ab85500-d961-11ea-929d-c1fd798e71ae.png'></img>|
+
+
+<!-- <div class="text-white bg-gray-dark mb-2">
 <table class="text-white bg-gray-dark mb-2">
   <tr>
     <td><b style="font-size:30px">Skills</b></td>
@@ -44,8 +50,7 @@
  </tr>
  <tr>
     <td>
-
-### **Languages :**&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title='Python'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title='C'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title='C++'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title='javaScript'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" title='PHP'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title='Java'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       ### **Languages :**&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title='Python'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title='C'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title='C++'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title='javaScript'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" title='PHP'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title='Java'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### **Web Frameworks :**&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title='Flask'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title='Node.js'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" title='Express.js'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title='Django'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title='React'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title='Bootstrap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,8 +60,7 @@
 
 ### **Data Science :**&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title='Tensorflow'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://avatars0.githubusercontent.com/u/20547620?s=200&v=4" title='fast.ai'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://avatars0.githubusercontent.com/u/828667?s=200&v=4" title='Tableau'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title='Scikit'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### **Other :**&nbsp;&nbsp;<img height="20" src="https://avatars1.githubusercontent.com/u/6250754?s=200&v=4" title='Ethereum'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://avatars0.githubusercontent.com/u/36965711?s=200&v=4" title='Solidity'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" title='RaspberryPi'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title='HTML'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title='CSS'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" title='Markdown'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+### **Other :**&nbsp;&nbsp;<img height="20" src="https://avatars1.githubusercontent.com/u/6250754?s=200&v=4" title='Ethereum'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://avatars0.githubusercontent.com/u/36965711?s=200&v=4" title='Solidity'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" title='RaspberryPi'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title='HTML'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title='CSS'>&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" title='Markdown'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </td>
     <td>
     <img align='center' width='575px' src='https://user-images.githubusercontent.com/42001739/89702663-2ab85500-d961-11ea-929d-c1fd798e71ae.png'></img>
@@ -64,10 +68,10 @@
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshOza36&theme=dark&hide_langs_below=1" /> -->
 <!--   <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?HarshOza36" frameborder="0"></iframe> -->
 <!-- </a> -->
-</td>
+<!-- </td>
  </tr>
 </table>
-</div>
+</div> -->
 
 ---
 <!--
