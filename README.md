@@ -3,10 +3,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshOza36&label=Views&color=blue&style=plastic" alt="HarshOza36" /> </p> -->
 
 - 🔭 I’m currently working on [NLP, Computer Vision and Cloud based Projects]().
-- 📖 I’m currently learning **MEAN Stack** and **Ethical Hacking**.
 - 👯 I’m looking to collaborate for [Projects]().
 - 💬 Ask me anything about tech related stuff.
-- 💭 I'm interested in **Developing technology with my skills**
+- 💭 I'm interested in **Developing new technologies.**
 - ⚡ Fun fact: I am also a musician :musical_keyboard: and in love with music :musical_note:.
 
 [![Linkedin: Harsh Oza](https://img.shields.io/badge/-HarshOza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-oza-6b75a7171/)](https://www.linkedin.com/in/harsh-oza-6b75a7171/)
