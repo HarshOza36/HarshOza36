@@ -2,35 +2,22 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshOza36&label=Views&color=blue&style=plastic" alt="HarshOza36" /> </p> -->
 
+
+I'm Harsh Oza, a Computer Science graduate with solid interests in Cloud Computing, Deep Learning and Data Science.
+Experienced in Python, RESTful APIs, Full stack development, AWS, Data Analytics and Developing Automation scripts to achieve maximum operational impacts with minimum resource expenditures. Looking out for challenging opportunities!
+
 - 🔭 I’m currently working on [NLP, Computer Vision and Cloud based Projects]().
-- 👯 I’m looking to collaborate for [Projects]().
 - 💬 Ask me anything about tech related stuff.
 - 💭 I'm interested in **Developing new technologies.**
-- ⚡ Fun fact: I am also a musician :musical_keyboard: and in love with music :musical_note:.
 
-[![Linkedin: Harsh Oza](https://img.shields.io/badge/-HarshOza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-oza-6b75a7171/)](https://www.linkedin.com/in/harsh-oza-6b75a7171/)
-[![GitHub HarshOza36](https://img.shields.io/github/followers/HarshOza36?label=follow&style=social)](https://github.com/HarshOza36)
+<br>
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-harshoza-00f024?logo=safari)](https://harshoza.herokuapp.com/) 
+### Let's Connect 🤝🤘
 
-<p align='center'>
-   Let's Connect 🤝🤘
-  <br>
-<a href="https://twitter.com/HarshOza12">
-  <img align="center" alt="Harsh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<a href="mailto:harshoza3636@gmail.com" target="_blank"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="HarshOza36" height="20" width="20" /></a> &nbsp; [![Linkedin: Harsh Oza](https://img.shields.io/badge/-HarshOza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-oza-6b75a7171/)](https://www.linkedin.com/in/harsh-oza-6b75a7171/)&nbsp; [![GitHub HarshOza36](https://img.shields.io/github/followers/HarshOza36?label=follow&style=social)](https://github.com/HarshOza36)
 
-<a href="https://linkedin.com/in/harsh-oza-6b75a7171">
-  <img align="center" alt="Harsh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/HarshOza36">
-  <img align="center" alt="Harsh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCv-aXrU5Q8KpaEb59YB6CNQ">
-  <img align="center" alt="Harsh's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
-</p>
+[![website](https://img.shields.io/badge/PortfolioWebsite-harshoza-00f024?logo=safari)](https://harshoza36.github.io/hro-portfolio/)
 
 <br/>
 <br/>
