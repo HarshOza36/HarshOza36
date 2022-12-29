@@ -6,7 +6,7 @@
 I'm Harsh Oza, a Computer Science graduate with solid interests in Cloud Computing, Deep Learning and Data Science.
 Experienced in Python, RESTful APIs, Full stack development, AWS, Data Analytics and Developing Automation scripts to achieve maximum operational impacts with minimum resource expenditures. Looking out for challenging opportunities!
 
-- 🔭 I’m currently working on [NLP, Computer Vision and Cloud based Projects]().
+- 🔭 I’m currently working on [NLP, Computer Vision and Cloud based Projects](https://github.com/HarshOza36).
 - 💬 Ask me anything about tech related stuff.
 - 💭 I'm interested in **Developing new technologies.**
 
